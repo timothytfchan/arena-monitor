@@ -1,7 +1,7 @@
 [
   {
     "rank": 1,
-    "modelDisplayName": "claude-opus-4-6-thinking",
+    "modelDisplayName": "claude-opus-4-6",
     "rating": 1503.65,
     "votes": 3922,
     "modelOrganization": "Anthropic",
@@ -13,7 +13,7 @@
   },
   {
     "rank": 2,
-    "modelDisplayName": "claude-opus-4-6",
+    "modelDisplayName": "claude-opus-4-6-thinking",
     "rating": 1499.9,
     "votes": 4653,
     "modelOrganization": "Anthropic",
