@@ -1,6 +1,6 @@
 [
   {
-    "rank": 2,
+    "rank": 1,
     "modelDisplayName": "claude-opus-4-6-thinking",
     "rating": 1503.65,
     "votes": 3922,
@@ -12,7 +12,7 @@
     "ratingLower": 1493.93
   },
   {
-    "rank": 1,
+    "rank": 2,
     "modelDisplayName": "claude-opus-4-6",
     "rating": 1499.9,
     "votes": 4653,
